@@ -271,4 +271,4 @@ MSc Data Science
 
 Nottingham Trent University
 
-Big Data & Its Infrastructure
+Major Project
